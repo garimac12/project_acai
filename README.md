@@ -1,2 +1,2 @@
-# project_know_your_worth
-Data Scientists Income Stats
+# project_acai
+American Citizen Annual Income Analysis
