@@ -14,15 +14,15 @@ The merged notebook file displays each team member's analyses and contribution, 
 
 This detailed analysis on data science salaries provides a good overview on salaries distribution across various variables.
 
-Key highlights:
+Key Highlights:
 
 a) US contributes to the major portion of the data science jobs
 
-b) Data science jobs have doubled since year 2020 to now
+b) Data science jobs have remained stable in 2020 and 2021 but there is a substantial growth in salaries for year 2022 and 2023.
 
-c) Companies located in Israel (IL) are paying highest salaries followed by companies located in Puerto Rico(PR) and then United States(US)
+c) Although US has the most number of jobs, companies located in Israel (IL) are paying highest salaries followed by companies located in Puerto Rico(PR) and then United States(US)
 
-d) Most employees working in data science jobs are working as full time employees and at the senior level experience
+d) Most employees working in data science jobs are working as full time employees.
 
 e) Medium size companies provide most jobs and highest median salaries 
 
