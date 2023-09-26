@@ -11,3 +11,22 @@ We conducted a collaborative discussion via Zoom, during which we reviewed the d
 Our team engaged in thorough discussions, with each member actively sharing their individual analysis notebooks. Through collaborative deliberation, we collectively defined our approach to analyzing the dataset, ensuring comprehensive coverage of all relevant variables. To consolidate, we merged our individual contributions into a single notebook."
 
 The merged notebook file displays each team member's analyses and contribution, with their respective names. As a team, we collectively identified key insights from these analyses to feature in our presentation slides. We recorded the presentation, which we then shared with both the instructor and TAs."
+
+This detailed analysis on data science salaries provides a good overview on salaries distribution across various variables.
+
+Key highlights:
+
+a) US contributes to the major portion of the data science jobs
+
+b) Data science jobs have doubled since year 2020 to now
+
+c) Companies located in Israel (IL) are paying highest salaries followed by companies located in Puerto Rico(PR) and then United States(US)
+
+d) Most employees working in data science jobs are working as full time employees and at the senior level experience
+
+e) Medium size companies provide most jobs and highest median salaries 
+
+f) Median salaries increases with higher experience levels and a wider distribution
+
+g) Data Science Tech Lead" has the highest median salary whereas Applied Scientist" offers more job opportunities despite a lower median salary
+
