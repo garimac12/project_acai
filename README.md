@@ -1,10 +1,10 @@
-# project_know_your_worth
+# project_know_your_worth 
 
 https://1drv.ms/p/s!Ap10IyLAlyDwjHA3rrVUpiEHyRx0
 
 Data Scientists Income Statistics
 
-For Project 1, we utilized a dataset sourced from Kaggle related to "Data Science Salaries". 
+For Project 1, we utilized a dataset sourced from Kaggle based on "Data Science Salaries". 
 
 The team comprised of 5 members: Amna Hassan, ​Garima Chaudhary, Nameeta Tiwari, ​Nidhi Nigam and Sahil Wadhwa​. 
 
