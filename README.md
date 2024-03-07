@@ -2,7 +2,7 @@
 
 https://1drv.ms/p/s!Ap10IyLAlyDwjHA3rrVUpiEHyRx0
 
-Data Scientists Income Stats
+Data Scientists Income Statistics
 
 For Project 1, we utilized a dataset sourced from Kaggle related to "Data Science Salaries". 
 
@@ -16,7 +16,7 @@ The merged notebook file displays each team member's analyses and contribution, 
 
 This detailed analysis on data science salaries provides a good overview on salaries distribution across various variables.
 
-Key Highlights:
+Key Highlights for the above are :
 
 a) US contributes to the major portion of the data science jobs
 
